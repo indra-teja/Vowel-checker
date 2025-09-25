@@ -35,7 +35,6 @@ Vowel-Counter/
 **Clone the repository :**
 git clone https://github.com/username/vowel-counter.git
 
-
 **Navigate into the folder:**
 
 cd vowel-counter
